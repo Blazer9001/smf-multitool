@@ -1,8 +1,25 @@
 {
-	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Incredible Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.12.4"
+	"version": "1.1.0",
+	"id": "Blazer.Multitool",
+	"name": "Multitool",
+	"description": "Makes the lockpick a screwdriver and wrench as well. Now a skeleton keycard too!",
+	"authors": [
+		"Blazer"
+	],
+	"frameworkVersion": "2.15.0",
+	"updateCheck": "https://raw.githubusercontent.com/Blazer9001/smf-updates/main/multitool-update.json",
+	"contentFolders": [
+		"content"
+	],
+	"blobsFolders": [
+		"blobs"
+	],
+	"localisationOverrides": {
+		"0024A5A15AC9CC2F": {
+			"english": {
+				"2972224757": "Multitool",
+				"3837681319,": "A set of lockpicks, a wrench, skeleton keycard, and screwdriver all in one."
+			}
+		}
+	}
 }
