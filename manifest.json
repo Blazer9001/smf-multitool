@@ -7,7 +7,7 @@
 		"Blazer"
 	],
 	"frameworkVersion": "2.15.0",
-	"updateCheck": "https://raw.githubusercontent.com/Blazer9001/smf-updates/main/multitool-update.json",
+	"updateCheck": "https://github.com/Blazer9001/smf-multitool/releases/latest/download/updates.json",
 	"contentFolders": [
 		"content"
 	],
