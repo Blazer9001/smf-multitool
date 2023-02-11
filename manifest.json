@@ -1,19 +1,13 @@
 {
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"id": "Blazer.Multitool",
 	"name": "Multitool",
 	"description": "Makes the lockpick a screwdriver and wrench as well. Now a skeleton keycard too!",
-	"authors": [
-		"Blazer"
-	],
+	"authors": ["Blazer"],
 	"frameworkVersion": "2.15.0",
 	"updateCheck": "https://github.com/Blazer9001/smf-multitool/releases/latest/download/updates.json",
-	"contentFolders": [
-		"content"
-	],
-	"blobsFolders": [
-		"blobs"
-	],
+	"contentFolders": ["content"],
+	"blobsFolders": ["blobs"],
 	"localisationOverrides": {
 		"0024A5A15AC9CC2F": {
 			"english": {
