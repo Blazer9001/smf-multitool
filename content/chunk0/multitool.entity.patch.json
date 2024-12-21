@@ -522,6 +522,24 @@
 					}
 				}
 			]
+		},
+		{
+			"AddEntity": [
+				"cafe83c8035a0a18",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEYCARD_SKUNK_VAULT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_keycard_skunk_vault.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_keycard_skunk_vault.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
 		}
 	],
 	"patchVersion": 6
