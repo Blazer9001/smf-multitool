@@ -1,0 +1,25 @@
+{
+	"tempHash": "000E9F251BF6FE1A",
+	"tbluHash": "007031D103ECECE6",
+	"patch": [
+		{
+			"AddEntity": [
+				"cafeddef12b77f3b",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_QUESTITEM_HOKKAIDO_RFID_MASTERCHIP",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_hokkaido_rfid_masterchip.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_hokkaido_rfid_masterchip.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
