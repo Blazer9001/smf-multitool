@@ -129,24 +129,6 @@
 		},
 		{
 			"AddEntity": [
-				"feed9f3f9da2eb0a",
-				{
-					"parent": "c7851157ce810ff9",
-					"name": "Keyword_KEYCARD_RACCOON_CEOKEYCARD",
-					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_keycard_raccoon_ceokeycard.entitytemplate].pc_entitytype",
-					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_keycard_raccoon_ceokeycard.entitytemplate].pc_entityblueprint",
-					"properties": {
-						"m_aHolders": {
-							"type": "TArray<SEntityTemplateReference>",
-							"value": ["d80fb3f7ff69b629"],
-							"postInit": true
-						}
-					}
-				}
-			]
-		},
-		{
-			"AddEntity": [
 				"feed9f3f9da2eb0b",
 				{
 					"parent": "c7851157ce810ff9",
@@ -438,9 +420,9 @@
 				"feed9f3f9da2eb1b",
 				{
 					"parent": "c7851157ce810ff9",
-					"name": "Keyword_KEY_WOLVERINE_LAB_BLUE",
-					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_lab_blue.entitytemplate].pc_entitytype",
-					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_lab_blue.entitytemplate].pc_entityblueprint",
+					"name": "Keyword_KEY_WOLVERINE_PASSENGER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_passenger.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_passenger.entitytemplate].pc_entityblueprint",
 					"properties": {
 						"m_aHolders": {
 							"type": "TArray<SEntityTemplateReference>",
@@ -531,6 +513,2094 @@
 					"name": "Keyword_KEYCARD_SKUNK_VAULT",
 					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_keycard_skunk_vault.entitytemplate].pc_entitytype",
 					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_keycard_skunk_vault.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe156d339db405",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_THEISLAND_CASTLE_MASTER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_theisland_castle_master.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_theisland_castle_master.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec503274d135a",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_RACCOON_JANITORKEY",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_janitorkey.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_janitorkey.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe8b611b435fd2",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ANCESTRAL_BUTLERSOFFICE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_butlersoffice.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_butlersoffice.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe77bc6de01a81",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ANCESTRAL_GREENHOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_greenhouse.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_greenhouse.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe119992259648",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ANCESTRAL_LOCKERKEY",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_lockerkey.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_lockerkey.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe8009004471b5",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ANCESTRAL_REBECCASROOM",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_rebeccasroom.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_rebeccasroom.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe97c0fb77b916",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ANCESTRAL_EMMAANDGREGORYSROOM",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_emmaandgregorysroom.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_ancestral_emmaandgregorysroom.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe815cb4dacf01",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_CARTEL_LOCKUP",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_cartel_lockup.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_cartel_lockup.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed1ed07d3e1a7",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_BAR",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_bar_basement.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_bar_basement.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeb5f59b85289d",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_CONSTRUCTION_STORAGE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_construction_storage.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_construction_storage.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe531f385141e2",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_DRUMMERS_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_drummers_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_drummers_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafea984b90df823",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_ENGINEER_HUT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_engineer_hut.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_engineer_hut.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe4a60836683df",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_FRANCO_HUT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_franco_hut.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_franco_hut.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafecd66c595d121",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_HOSTEL_MASTER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_hostel_master.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_hostel_master.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe4fd06fc2062c",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_JUNGLE_GATE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_jungle_gate.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_jungle_gate.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7a4a0cd1d84b",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_MANSION_GATE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_mansion_gate.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_mansion_gate.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafebef4720a6231",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_MARTINEZ_OFFICE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_martinez_office.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_martinez_office.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9f50490da960",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_PHARMACY",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_pharmacy.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_pharmacy.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe189ae79cc28f",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_SHAMAN_HUT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_shaman_hut.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_shaman_hut.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe373b5b49f494",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLOMBIA_SHOP",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_shop.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colombia_shop.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed1ebf83fff62",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLORADO_BASEMENT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_basement.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_basement.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafebf54939095ce",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLORADO_BERGSGARAGE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_bergsgarage.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_bergsgarage.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe52fb8f789b4c",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLORADO_MILITIA_MASTER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_militia_master.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_militia_master.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeaf0c207235ea",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLORADO_PERIMETER_GATE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_perimeter_gate.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_perimeter_gate.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9c7027cd60da",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_COLORADO_ROSES_ROOM",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_roses_room.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_colorado_roses_room.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe8249af98f410",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_DUGONG_COOKS",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_cooks.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_cooks.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7a2c88cf6b74",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_DUGONG_DUNGEONCELL",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_dungeoncell.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_dungeoncell.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe232908dca2ee",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_DUGONG_HOSTAGEHUT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_hostagehut.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_hostagehut.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe18c3bade78d8",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_DUGONG_PIRATES",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_pirates.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_pirates.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe825d92a59ee7",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_DUGONG_VILLAGEMASTER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_villagemaster.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_dugong_villagemaster.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe199ede5bdf34",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_FOX_MEDICINECABINET",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_fox_medicinecabinet.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_fox_medicinecabinet.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe798d4bffd4ce",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_FOX_STAFF",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_fox_staff.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_fox_staff.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec1d5b59897cf",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_FOX_STAFFLOCKER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_fox_stafflocker.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_fox_stafflocker.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe8d3ea4b20994",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_GECKO_JANITOR",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_janitor.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_janitor.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed6227475b01f",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_GECKO_LOCKER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_locker.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_locker.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafefac8f0385eff",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_GECKO_PENTHOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_penthouse.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_penthouse.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe04b3b8db3782",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_GECKO_SECURITY",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_security.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_security.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe582818dc3ad2",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_OLDTOWN_SHOP",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_oldtown_shop.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_oldtown_shop.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe055d5c410364",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_GECKO_WINDOW_GATES",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_window_gates.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_gecko_window_gates.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec5d1e147029c",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_APPARTMENT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_appartment.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_appartment.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed4453f4f0dce",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_CASTLERUIN_ENTRANCE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_castleruin_entrance.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_castleruin_entrance.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe4865e31f02bd",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_CHURCH_ENTRANCE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_church_entrance.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_church_entrance.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeda2fc97b4f6d",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_COPPERHEAD_BOSCO_TRAILER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_copperhead_bosco_trailer.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_copperhead_bosco_trailer.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeab0e8f1ae4e0",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_CULTIST_APPARTMENT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_cultist_appartment.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_cultist_appartment.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7ecf0e6f43af",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MARRAKESH_SHOP",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_shop.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_shop.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9d2c47d2901d",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_MANSION_MASTER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_mansion_master.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_mansion_master.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafef308bf3fb495",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_TOWNHALL",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_townhall.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_townhall.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafebd34e9729a75",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_SEWER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_sewer.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_sewer.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe2dfe9d3dda67",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_TOILET_DOOR",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_toilet_door.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_toilet_door.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec86504685088",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_EXPLOSIVE_FUEL_CASE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_explosive_fuel_case.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_explosive_fuel_case.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe53c5a1adce8e",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_LLAMA_BASEMENT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_llama_basement.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_llama_basement.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafea0ea3fddf8f9",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_LLAMA_VILLA",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_llama_villa.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_llama_villa.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe32527f620c01",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_LLAMA_WORKERS",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_llama_workers.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_llama_workers.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1d6b7fea1ade",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MARRAKECH_MEMBERS_CLUB",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakech_members_club.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakech_members_club.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe218bf12b6d99",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MARRAKECH_PRINTING_STORAGE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakech_printing_storage.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakech_printing_storage.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe173e66a6d58d",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MARRAKESH_CARPET_SHOP",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_carpet_shop.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_carpet_shop.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe28334e17f21c",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MARRAKESH_COURTYARD",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_courtyard.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_courtyard.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe31ff706363c1",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MARRAKESH_MAINTENANCE_ROOM",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_maintenance_room.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_maintenance_room.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1e1419d1e15d",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MARRAKESH_OLD_SCHOOL_GATE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_old_school_gate.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_marrakesh_old_school_gate.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafefd14de8eb2bd",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_ITALY_OLDTOWN_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_oldtown_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_italy_oldtown_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe30c1eb464cc2",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MIAMI_BOATRENTAL",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_boatrental.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_boatrental.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe77443e546149",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MUMBAI_BEACHHOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_beachhouse.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_beachhouse.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee9e89f8c31bc",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MIAMI_EVENTAREA",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_eventarea.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_eventarea.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe5df206f423d4",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MIAMI_EVIDENCELOCKER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_evidencelocker.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_evidencelocker.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe45308a78e435",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MIAMI_FOODVENDOR",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_foodvendor.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_foodvendor.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec45e70aeb9c7",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MIAMI_MEDICALCABINET",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_medicalcabinet.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_medicalcabinet.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe70f769f049bb",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MIAMI_METALCABINET",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_metalcabinet.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_miami_metalcabinet.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed0b8bf32ea71",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MUMBAI_BARBERSHOP",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_barbershop.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_barbershop.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafea08ec4c56bdd",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_OPULENT_SAFE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_safe.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_safe.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe43dd039c9e19",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MUMBAI_CHAWL_APARTMENT_A",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_chawl_apartment_a.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_chawl_apartment_a.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe21fab41790f1",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MUMBAI_CHAWL_APARTMENT_B",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_chawl_apartment_b.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_chawl_apartment_b.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeb0c54cbda4e1",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MUMBAI_CHAWL",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_chawl.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_chawl.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe3edff17a02b0",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MUMBAI_HIDEOUT_GATES",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_hideout_gates.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_hideout_gates.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe3f5c7805f15b",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MUMBAI_LAUNDRY_OFFICE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_laundry_office.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_laundry_office.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe41a5de556550",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MUMBAI_TAILORSSHOP",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_tailorsshop.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_tailorsshop.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe86f62c3340a6",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_MUMBAI_TRAINYARD",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_trainyard.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_mumbai_trainyard.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe879b73107d6e",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_NEWZEA_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_newzea_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_newzea_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7d98b4844a3a",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_OPULENT_HUT_3",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_hut_3.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_hut_3.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe4d4d8331b81f",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_OPULENT_HUT_1",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_hut_1.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_hut_1.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafefca931d8abeb",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_OPULENT_HUT_2",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_hut_2.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_hut_2.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec4b56774ec68",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_PARIS_PALACE_MASTER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_paris_palace_master.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_paris_palace_master.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe06e7441c3611",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_OPULENT_HUT_4",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_hut_4.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_hut_4.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe0e3df2cfce4f",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_OPULENT_STAFF_RESORT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_staff_resort.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_staff_resort.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed134b11d39c1",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_OPULENT_UNDERGROUND_CABINET",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_underground_cabinet.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_underground_cabinet.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe4cc3e665529a",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_OPULENT_UNDERGROUND_LOCKER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_underground_locker.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_underground_locker.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe10a26482de4b",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_OPULENT_VILLA",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_villa.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_villa.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe48ccdf58205e",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_RACCOON_DEPOSIT4",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_deposit4.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_deposit4.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed334a2f21b11",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_RACCOON_CEOKEY",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_ceokey.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_ceokey.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe374e193b7843",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_BBQ_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_bbq_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_bbq_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed591f898969c",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_CASSIDY_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_cassidy_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_cassidy_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee12626e658db",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_FORSALE_BEDROOM",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_forsale_bedroom.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_forsale_bedroom.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeccffd45792d4",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_FORSALE_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_forsale_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_forsale_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed953bcf5120b",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_FUMIGATION_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_fumigation_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_fumigation_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafef36c8b08cbc0",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_GRANNY_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_granny_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_granny_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe570b85c50328",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_JANUS_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_janus_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_janus_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe76efc5729a50",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_ONVACATION_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_onvacation_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_onvacation_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafefa1eb8397e6e",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_PUBLIC_SHED",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_public_shed.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_public_shed.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe51ac71c60340",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_RENOVATION_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_renovation_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_renovation_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe80a4a5d32544",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_SKUNK_VHOLES_HOUSE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_vholes_house.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_skunk_vholes_house.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe34331396a56f",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_WET_ARCADE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wet_arcade.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wet_arcade.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafecf4ae07ebf6d",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_WET_APARTMENT",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wet_apartment.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wet_apartment.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafedfe92bd724d2",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_WOLVERINE_LAB_BLUE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_lab_blue.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_lab_blue.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe0b9aba5bf461",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_WOLVERINE_CARGO",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_cargo.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_cargo.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeaec01d276874",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_WOLVERINE_CONTAINER",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_container.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_container.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafef092e21ae26d",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_WOLVERINE_LABSTORAGE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_labstorage.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_wolverine_labstorage.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6663430c7c22",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEYCARD_RACCOON_CEOKEYCARD",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_keycard_raccoon_ceokeycard.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_keycard_raccoon_ceokeycard.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec441915b3b31",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_RACCOON_DEPOSITMASTERKEY",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_depositmasterkey.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_depositmasterkey.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe835a59119f3c",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_RACCOON_DEPOSIT1",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_deposit1.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_deposit1.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed21beda7e1f6",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_RACCOON_DEPOSIT2",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_deposit2.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_deposit2.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1bdd2dc429b2",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_RACCOON_DEPOSIT3",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_deposit3.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_raccoon_deposit3.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe0665183b1d71",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_QUESTITEM_RAT_ACCESSCODETIER3",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_rat_accesscodetier3.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_rat_accesscodetier3.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeddef12b77f3b",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_QUESTITEM_HOKKAIDO_RFID_MASTERCHIP",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_hokkaido_rfid_masterchip.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_hokkaido_rfid_masterchip.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafea55a4fc7081d",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_QUESTITEM_RAT_ACCESSCODETIER1",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_rat_accesscodetier1.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_rat_accesscodetier1.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe211b75fd1016",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_QUESTITEM_RAT_ACCESSCODETIER2",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_rat_accesscodetier2.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_rat_accesscodetier2.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1f8ec5e5f5ad",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_NEWZEA_CLOSET_STORAGE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_newzea_closet_storage.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_newzea_closet_storage.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["d80fb3f7ff69b629"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafecda57e4ca4cf",
+				{
+					"parent": "c7851157ce810ff9",
+					"name": "Keyword_KEY_NEWZEA_CLOSET_STORAGE",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_newzea_alma_car.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_newzea_alma_car.entitytemplate].pc_entityblueprint",
 					"properties": {
 						"m_aHolders": {
 							"type": "TArray<SEntityTemplateReference>",
