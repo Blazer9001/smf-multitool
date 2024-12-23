@@ -1,11 +1,9 @@
 {
-	"version": "1.3.0",
+	"version": "1.4.0",
 	"id": "Blazer.Multitool",
 	"name": "Multitool",
 	"description": "Turns the lockpick into a screwdriver, wrench, skeleton key/keycard, and rfid dongle",
-	"authors": [
-		"Blazer"
-	],
+	"authors": ["Blazer"],
 	"frameworkVersion": "2.33.23",
 	"updateCheck": "https://github.com/Blazer9001/smf-multitool/releases/latest/download/updates.json",
 	"options": [
@@ -14,62 +12,46 @@
 			"tooltip": "Should the multitool act as a screwdriver?",
 			"type": "checkbox",
 			"enabledByDefault": true,
-			"contentFolders": [
-				"screwdriver"
-			]
+			"contentFolders": ["screwdriver"]
 		},
 		{
 			"name": "Wrench",
 			"tooltip": "Should the multitool act as a wrench?",
 			"type": "checkbox",
 			"enabledByDefault": true,
-			"contentFolders": [
-				"wrench"
-			]
+			"contentFolders": ["wrench"]
 		},
 		{
 			"name": "Keys",
 			"tooltip": "Should the multitool act as a skeleton key?",
 			"type": "checkbox",
 			"enabledByDefault": false,
-			"contentFolders": [
-				"keys"
-			]
+			"contentFolders": ["keys"]
 		},
 		{
 			"name": "Keycards",
 			"tooltip": "Should the multitool act as a skeleton keycard?",
 			"type": "checkbox",
 			"enabledByDefault": false,
-			"contentFolders": [
-				"keycards"
-			]
+			"contentFolders": ["keycards"]
 		},
 		{
 			"name": "RFID",
 			"tooltip": "Should the multitool act as an RFID dongle? (Chongqing and Mendoza)",
 			"type": "checkbox",
 			"enabledByDefault": false,
-			"contentFolders": [
-				"rfid"
-			]
+			"contentFolders": ["rfid"]
 		},
 		{
 			"name": "Hokkaido",
 			"tooltip": "Should the multitool let you through any door in Hokkaido?",
 			"type": "checkbox",
 			"enabledByDefault": false,
-			"contentFolders": [
-				"hokkaido"
-			]
+			"contentFolders": ["hokkaido"]
 		}
 	],
-	"contentFolders": [
-		"content"
-	],
-	"blobsFolders": [
-		"blobs"
-	],
+	"contentFolders": ["content"],
+	"blobsFolders": ["blobs"],
 	"localisationOverrides": {
 		"0024A5A15AC9CC2F": {
 			"english": {
