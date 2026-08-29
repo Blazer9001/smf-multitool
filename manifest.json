@@ -1,8 +1,9 @@
 {
+	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "1.4.0",
 	"id": "Blazer.Multitool",
 	"name": "Multitool",
-	"description": "Turns the lockpick into a screwdriver, wrench, skeleton key/keycard, and rfid dongle",
+	"description": "Turns the lockpick into a screwdriver, wrench, skeleton key/keycard, and rfid dongle.",
 	"authors": ["Blazer"],
 	"frameworkVersion": "2.33.23",
 	"updateCheck": "https://github.com/Blazer9001/smf-multitool/releases/latest/download/updates.json",
@@ -23,7 +24,7 @@
 		},
 		{
 			"name": "Keys",
-			"tooltip": "Should the multitool act as a skeleton key?",
+			"tooltip": "Should the multitool act as a skeleton key? (inclues exits)",
 			"type": "checkbox",
 			"enabledByDefault": false,
 			"contentFolders": ["keys"]
