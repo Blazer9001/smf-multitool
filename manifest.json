@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"id": "Blazer.Multitool",
 	"name": "Multitool",
 	"description": "Turns the lockpick into a screwdriver, wrench, skeleton key/keycard, and rfid dongle.",
